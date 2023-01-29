@@ -13,7 +13,7 @@ Get Started
 You need to complete this setup first
 
 Getting set up
-Step1: After unzip 
+Step1: Unzip 
 Stop2: Use cloud backup folder
 Stop3: Create a shortcut to save.exe
 Stop4: Keyboard press Win + R, type shell:startup
